@@ -5,7 +5,7 @@ Linkini verdiğiniz sitenin kaynak kodunu kopyalayıp istediğiniz bir isimle ka
 ## İndirme 
 
 ```bash
-git clone 'https://github.com/morbius-os/m-copy
+git clone https://github.com/morbius-os/m-copy
 
 cd m-copy
 
